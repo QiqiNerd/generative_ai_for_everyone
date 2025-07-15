@@ -6,7 +6,7 @@
 
 - Each note is written in English with Chinese annotations for key AI concepts, and is intended to serve as a study aid or reference for those who have taken or are interested in the course.
 
-- The official slides can be found via this [link](https://community.deeplearning.ai/t/generative-ai-for-everyone-lecture-notes/481740)
+- The official slides can be found via this [link](https://community.deeplearning.ai/t/generative-ai-for-everyone-lecture-notes/481740).
 
 
 ## Disclaimer
